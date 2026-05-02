@@ -1,0 +1,3 @@
+'DualSimplexePage' object has no attribute 'btn_retour'
+'DualSimplexePage' object has no attribute 'btn_retour'
+cannot import name 'DualSimplexePage' from 'model.dual_simplexe' (C:\Users\FATMA EZAHRA\OneDrive\Bureau\projet\model\dual_simplexe.py)
