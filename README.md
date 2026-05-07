@@ -1,4 +1,5 @@
 Application Python pour la gestion et l’optimisation de l’irrigation agricole
+
 #Description
 Ce projet implémente des méthodes d’optimisation de distribution de l’eau sur plusieurs parcelles agricoles.
 Deux volets complémentaires sont intégrés :
@@ -15,6 +16,8 @@ Méthode graphique : résolution visuelle pour deux variables de décision.
 Méthode du simplexe et dualité : résolution algorithmique pour des problèmes linéaires complexes.
 
 Validation théorique : vérification de la cohérence et interprétation économique des contraintes.
+
+
 
 #2. Partie Pratique (Application Python)
 Implémentation : utilisation de bibliothèques Python (PuLP, NumPy, Matplotlib).
