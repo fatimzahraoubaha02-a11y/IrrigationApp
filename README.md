@@ -28,4 +28,5 @@ Deux volets complémentaires sont intégrés :
   - Résolution graphique pour 2 variables.
   - Résolution par simplexe pour plusieurs parcelles.
   - Comparaison et validation des résultats.
-Manipulation : l’utilisateur peut définir ses propres données (quantité d’eau disponible, besoins des parcelles) et obtenir une solution optimale.
+
+  Manipulation : l’utilisateur peut définir ses propres données (quantité d’eau disponible, besoins des parcelles) et obtenir une solution optimale.
